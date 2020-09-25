@@ -13,5 +13,5 @@
 </a>
 <br>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasharkawasthi&layout=compact&card_width=456" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasharkawasthi&layout=compact&card_width=444" />
 </a>
