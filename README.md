@@ -7,4 +7,5 @@
 - 💬 Ask me about anything.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yasharkawasthi/)
 
-[![Yashark's github stats](https://github-readme-stats.vercel.app/api?username=yasharkawasthi)](https://github.com/anuraghazra/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=yasharkawasthi&include_all_commits=true&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yasharkawasthi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
