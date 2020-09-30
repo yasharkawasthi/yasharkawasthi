@@ -5,6 +5,7 @@
 - 👯 I’m looking to collaborate on projects.
 - 🤔 I’m looking for help with Computer Networks and Data Mining.
 - 💬 Ask me about anything.
+- :smiley: Open to any suggestions.
 - 📫 How to reach me: [Portfolio](https://yasharkawasthi.github.io/)
 <br>
 <a>
